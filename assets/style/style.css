@@ -26,16 +26,17 @@ body {
 }
 
 .background1 {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('/assets/img/bg1.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../img/bg1.jpg');
   box-sizing: border-box;
   background-size: cover;
 }
 
 .background2 {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('/assets/img/bg2.png');
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../img/bg2.png');
   box-sizing: border-box;
   background-size: cover;
 }
+
 
 .muncul {
   animation: muncul 1200ms ease;
