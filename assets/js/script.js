@@ -30,7 +30,7 @@ jam.innerHTML = `${hour}:${minutes}`
 
 // Dirubah 
 
-const pengirim = "Baginda Putri ♡" // Ganti dengan nama kamu;
+const pengirim = "Teuku Raja ♡" // Ganti dengan nama kamu;
 const nomorWa = "6282350191117" // awalan nomor 0 harus di awalin 62
 const textWa = "Aku cuma mau bilang... kamu itu spesial banget buat aku ♡"
 const pesan = `Aku cuma mau bilang, terima kasih sudah hadir di hidupku dan bikin hari-hariku jadi lebih indah. Kamu itu luar biasa, dan aku nggak akan pernah bosan ngingetin betapa berharganya kamu. Semoga kamu selalu bahagia, sehat, dan semua yang kamu impikan pelan-pelan jadi kenyataan. Tetaplah jadi kamu yang manis, lucu, dan bikin aku jatuh cinta tiap hari ♡`;
